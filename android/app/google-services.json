@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788079142790",
+    "project_id": "bookz-62be9",
+    "storage_bucket": "bookz-62be9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788079142790:android:d3a0e02ab86aa7591dae07",
+        "android_client_info": {
+          "package_name": "com.example.bookz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvz7zisQNKn3QRQ9I1IT4q1blTpHuR2-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
