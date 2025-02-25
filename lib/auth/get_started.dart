@@ -58,7 +58,7 @@ class _GetStartedState extends State<GetStarted> {
                     Image(image: AssetImage("assets/images/books_ill.png")),
                     SizedBox(height: 20),
                     Text(
-                      "Explore Endless Stories",
+                      "Your Data, Your Privacy!",
                       style: TextStyle(
                           fontSize: 20,
                           color: Colors.white,
@@ -66,7 +66,7 @@ class _GetStartedState extends State<GetStarted> {
                       textAlign: TextAlign.center,
                     ),
                     Text(
-                      "Every book is a new world!",
+                      "Enjoy safe and secure book shopping with us.",
                       style: TextStyle(
                           fontSize: 12, color: Colors.white.withOpacity(0.6)),
                       textAlign: TextAlign.center,
