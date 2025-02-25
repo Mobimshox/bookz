@@ -94,6 +94,7 @@ class _SupportPageState extends State<SupportPage> {
           TextButton(
             onPressed: () => Navigator.pop(context),
             child: Text("Cancel"),
+
           ),
           TextButton(
             onPressed: () {
