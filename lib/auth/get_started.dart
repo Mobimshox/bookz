@@ -139,6 +139,7 @@ class _GetStartedState extends State<GetStarted> {
                 ],
               )
             ],
+
           ),
           Container(
             alignment: Alignment(0, 0.7),
